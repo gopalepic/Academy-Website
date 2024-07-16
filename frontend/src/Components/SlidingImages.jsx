@@ -53,7 +53,7 @@ const SlidingImages = () => {
       style={{ backgroundImage: `url(${slides[currentIndex].url})` }}
       className='w-full h-full rounded-2xl bg-center bg-cover duration-500 '
     ></div>
-    <div className='top-[50%]  absolute text-center '>
+    <div className='top-[50%]  absolute text-center left-[10%]'>
         <h1 className='text-3xl font-semibold'>Our team of dedicated , skilled and professional teachers</h1>
         <p className=''>Besides preparing students for academic achievement, we aim at empowering them with knowledge, attitudes, values and skills to face the realities of life.</p>
     </div>
