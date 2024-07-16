@@ -45,7 +45,7 @@ const Notice = () => {
      {/* </ul> */}
         {isLoading? (
           <p>Loading...</p>
-        ) :(
+        ) : (
           <p>{data}</p>
         )}
       </div>
