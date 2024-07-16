@@ -1,18 +1,23 @@
 How to locally setup the project
 
-git clone https://github.com/gopalepic/Academy-Website.git
+1) Clone the Repositary
+      git clone https://github.com/gopalepic/Academy-Website.git
 
-cd frontend 
+2) Run the Frontend part
 
-          we are in ./frontend
+   cd frontend 
+
+      we are in ./frontend
            
           npm install 
           npm run dev
           your react server is ready
 
-now move to backend
+3) Run the Backend part 
+        
+    now move to backend
 
-cd ../backend
+      cd ../backend
 
          we are in ./backend 
 
